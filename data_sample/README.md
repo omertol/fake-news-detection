@@ -16,6 +16,7 @@ The original dataset can be found here:
 ## Additional Info
 
 For details about how the data was sampled, please take a look at the Jupyter notebook included in this folder.
+
 We used Google Colab when sampling the data, so if you'd like to create your own subset from the full dataset, don't forget to adjust the file paths accordingly.
 
 ---
